@@ -1,4 +1,4 @@
-# FakeNewsNetExtended
+# FakeNewsNetCleaned
 FakeNewsNet dataset cleaned and with dates normalized to epoch time.
 
 Original dataset can be found here (accessed 07-04-2019):
